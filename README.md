@@ -1,4 +1,4 @@
-# nickeas.github.io
+# Macron
 Macron カロリー計算サイト
 
 # Features 
